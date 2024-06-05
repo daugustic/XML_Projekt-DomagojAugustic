@@ -1,0 +1,112 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" ?>
+<Filmovi>
+   <Film>
+      <ID>1</ID>
+      <Poster>slike/furiosa.jpg</Poster>
+      <Naslov>Furiosa</Naslov>
+      <Trajanje>148min</Trajanje>
+      <Zanr>SF</Zanr>
+      <Redatelj>George Miller</Redatelj>
+      <Glumci>Anya Taylor-Joy, Chris Hemsworth</Glumci>
+      <Vremena>
+        <Ponedjeljak>16:30, 19:30, 21:25, 22:20</Ponedjeljak>
+        <Utorak>16:30, 19:30, 21:25, 22:20</Utorak>
+        <Srijeda>16:30, 19:30, 21:25, 22:20</Srijeda>
+        <Četvrtak>16:30, 19:30, 21:25, 22:20</Četvrtak>
+        <Petak>16:30, 19:30, 21:25, 22:20</Petak>
+        <Subota>14:25, 16:30, 19:30, 21:25, 22:20</Subota>
+        <Nedjelja>16:30, 19:30, 21:25, 22:20</Nedjelja>
+      </Vremena>
+  </Film>
+  <Film>
+      <ID>2</ID> 
+      <Poster>slike/apes.jpg</Poster>
+      <Naslov>Kingdom of the Planet of the Apes</Naslov>
+      <Trajanje>145min</Trajanje>
+      <Zanr>SF</Zanr>
+      <Redatelj>Wes Ball</Redatelj>
+      <Glumci>Freya Allen, Kevin Durand, Owen Teague</Glumci>
+      <Vremena>
+        <Ponedjeljak>18:05, 20:55</Ponedjeljak>
+        <Utorak>18:05, 20:55</Utorak>
+        <Srijeda>18:05, 20:55</Srijeda>
+        <Četvrtak>18:05, 20:55</Četvrtak>
+        <Petak>18:05, 20:55</Petak>
+        <Subota>14:15, 18:05, 20:55</Subota>
+        <Nedjelja>14:15, 18:05, 20:55</Nedjelja>
+      </Vremena>
+  </Film>
+  <Film>
+      <ID>3</ID>
+      <Poster>slike/if.jpg</Poster>
+      <Naslov>IF</Naslov>
+      <Trajanje>104min</Trajanje>
+      <Zanr>Avantura</Zanr>
+      <Redatelj>John Krasinski</Redatelj>
+      <Glumci>Ryan Reynolds, Steve Carell</Glumci>
+      <Vremena>
+        <Ponedjeljak>17:40, 19:25</Ponedjeljak>
+        <Utorak>17:40, 19:25</Utorak>
+        <Srijeda>17:40, 19:25</Srijeda>
+        <Četvrtak>17:40, 19:25</Četvrtak>
+        <Petak>17:40, 19:25</Petak>
+        <Subota>11:25, 13:30, 15:35, 17:40, 19:25</Subota>
+        <Nedjelja>11:25, 13:30, 15:35, 17:40, 19:25</Nedjelja>
+      </Vremena>
+  </Film>
+  <Film>
+      <ID>4</ID>
+      <Poster>slike/challengers.jpg</Poster>
+      <Naslov>Challengers</Naslov>
+      <Trajanje>131min</Trajanje>
+      <Zanr>Romantični</Zanr>
+      <Redatelj>Luca Guadagnino</Redatelj>
+      <Glumci>Zendaya, Josh OConnor, Mike Faist</Glumci>
+      <Vremena>
+        <Ponedjeljak>20:30</Ponedjeljak>
+        <Utorak>20:30</Utorak>
+        <Srijeda>20:30</Srijeda>
+        <Četvrtak>20:30</Četvrtak>
+        <Petak>20:30</Petak>
+        <Subota>20:30</Subota>
+        <Nedjelja>20:30</Nedjelja>
+      </Vremena>
+  </Film>
+  <Film>
+      <ID>5</ID>
+      <Poster>slike/garfield.jpg</Poster>
+      <Naslov>Garfield</Naslov>
+      <Trajanje>100min</Trajanje>
+      <Zanr>Animirani</Zanr>
+      <Redatelj>George Miller</Redatelj>
+      <Glumci>Chris Pratt, Nicholas Hoult, Ving Rhames</Glumci>
+      <Vremena>
+        <Ponedjeljak>16:05, 17:15, 18:20, 19:20</Ponedjeljak>
+        <Utorak>16:05, 17:15, 18:20, 19:20</Utorak>
+        <Srijeda>16:05, 17:15, 18:20, 19:20</Srijeda>
+        <Četvrtak>16:05, 17:15, 18:20, 19:20</Četvrtak>
+        <Petak>16:05, 17:15, 18:20, 19:20</Petak>
+        <Subota>11:00, 13:05, 15:10, 17:15, 18:20, 19:20</Subota>
+        <Nedjelja>11:00, 13:05, 15:10, 17:15, 18:20, 19:20</Nedjelja>
+      </Vremena>
+  </Film>
+  <Film>
+      <ID>6</ID>
+      <Poster>slike/watchers.jpg</Poster>
+      <Naslov>The Watchers</Naslov>
+      <Trajanje>102min</Trajanje>
+      <Zanr>Horor</Zanr>
+      <Redatelj>Ishada Night Shayamalan</Redatelj>
+      <Glumci>Dakota Fanning</Glumci>
+      <Vremena>
+        <Ponedjeljak>19:45, 20:45, 21:50</Ponedjeljak>
+        <Utorak>19:45, 20:45, 21:50</Utorak>
+        <Srijeda>19:45, 20:45, 21:50</Srijeda>
+        <Četvrtak>19:45, 20:45, 21:50</Četvrtak>
+        <Petak>19:45, 20:45, 21:50</Petak>
+        <Subota>19:45, 20:45, 21:50</Subota>
+        <Nedjelja>19:45, 20:45, 21:50</Nedjelja>
+      </Vremena>
+  </Film>
+</Filmovi>
